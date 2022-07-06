@@ -8,7 +8,9 @@ console.log(familyName);
 console.log(age);
 console.log(luckyNumber);
 
-let user_points = 100;
+let user_points = 74;
 if (user_points >= 75) {
     console.log("Congratulations!");
+} else {
+    console.log("Make it better. I trust in you =D")
 }
